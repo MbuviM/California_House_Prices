@@ -7,5 +7,4 @@ Relationship between total rooms and housing_median_value.
 Ocean proximity.
 Ocean proximity and population.
 Ocean proximity and median value.
-Correlation between median value and median income.
-Ocean proximity.
+
