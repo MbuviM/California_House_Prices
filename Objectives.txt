@@ -1,9 +1,9 @@
 Data Visualization Objectives
-1. Visualize the location where the data was collected.
-2. Show the relationship between the house age and house value.
-3. Relationship between total rooms and population.
-4. Relationship between total rooms and median_age.
-5. Relationship between total bedrooms and population.
-6. Relationship between total bedrooms and price.
-7. Ocean proximity and median value.
-8. Correlation between median value and median income.
+Visualize the location where the data was collected.
+Show the relationship between the house age and house value.
+Relationship between population and housing_median_value.
+Relationship between location and population.
+Relationship between total rooms and housing_median_value.
+Ocean proximity and median value.
+Correlation between median value and median income.
+Ocean proximity.
