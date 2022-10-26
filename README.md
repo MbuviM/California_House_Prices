@@ -27,7 +27,7 @@ or in the IDE directly mostly if you're using PyCharm.
 * Linear Regression.
 
 The project is not yet complete but incase you have any suggestions or views feel free to reach out on twitter 
-## @thenext_g33k.
+@thenext_g33k.
 
 
 
