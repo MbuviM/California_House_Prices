@@ -17,7 +17,7 @@ financially aware of price range as well as factors to settle on while buying a 
 - Other packages such as Basemap and pyplot are used alongside matplotlib.
 
 # Installation
-- The packages can be installed in the Anaconda cmd using
+- The packages and libraries can be installed in the Anaconda cmd using
 
       $ python -m pip install
 
@@ -25,6 +25,9 @@ or in the IDE directly mostly if you're using PyCharm.
 
 # Machine Learning Algorithm
 * Linear Regression.
+
+[!] The project is not yet complete but incase you have any suggestions or views feel free to reach out on twitter 
+@thenext_g33k.
 
 
 
